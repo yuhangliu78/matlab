@@ -1,0 +1,3 @@
+solve函数
+syms x;
+ans=solve(eqa,variable)
